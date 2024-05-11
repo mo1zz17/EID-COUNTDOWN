@@ -1,2 +1,2 @@
-                                                                  eid-countdown.surge.sh
+                                                                  https://eid-countdown.surge.sh
                                                                   
